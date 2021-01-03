@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Msp Creative Hub - Creative Inside, Action Outside</title>
-    <link>https://mspcreativehub.github.io/portfolio/</link>
+    <link>https://mspcreativehub.com/portfolio/</link>
     <description>Recent content in Portfolio on Msp Creative Hub - Creative Inside, Action Outside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate><atom:link href="https://mspcreativehub.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate><atom:link href="https://mspcreativehub.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
